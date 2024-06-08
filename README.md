@@ -3,7 +3,7 @@ DATA - DRIFTERS
 Welcome to the Data Drifters repository, your ultimate destination for mastering Python coding, data structures, data manipulation, and data visualization.
 This projects documents my learning journey through Futurense bootcamp wherein I use comprehensive resources to enhance my data science skills.
 
-My repository is regularly updated with a variety of learning materials and practical exercises. 
+This repository is regularly updated with a variety of learning materials and practical exercises. 
 Here’s a glimpse of what you can expect:
 
 1. Python Coding
