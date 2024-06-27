@@ -25,6 +25,7 @@ Applying skills to industry-based projects that simulate real-world data science
 To ensure a well-rounded learning experience, my repository includes resources and projects utilizing the following tools:
 
 Seaborn: A Python visualization library based on Matplotlib that provides a high-level interface for drawing attractive statistical graphics.
+
 Matplotlib: A comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 ![image](https://github.com/Rishika1954/Data-Drifters-Bootcamp/assets/137800912/2984dfc2-2c65-4bf4-b480-8695c1dcf2a5)
